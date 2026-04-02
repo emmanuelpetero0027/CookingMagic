@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Magic"
+        android:icon="@drawable/main_bottom_nav_magicwand_icon"
+        android:id="@+id/generate"
+
+        />
+    <item android:title="View All"
+        android:icon="@drawable/main_bottom_nav_viewall_icon"
+        android:id="@+id/viewAll"/>
+    <item android:title="Bookmarks"
+        android:icon="@drawable/main_bottom_nav_bookmark_icon"
+        android:id="@+id/bookMark"/>
+    <item android:title="Add Dish"
+        android:icon="@drawable/main_bottom_nav_add_icon"
+        android:id="@+id/add"/>
+</menu>

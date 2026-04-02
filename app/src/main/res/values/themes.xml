@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CookingMagic" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/bottomnavigationbarcolor</item>
+        <item name="colorPrimaryDark">@color/bottomnavigationbarcolor</item>
+        <item name="colorAccent">@color/bottomnavigationbarcolor</item>
+        <item name="android:statusBarColor">@color/bottomnavigationbarcolor</item>
+
+        <!-- Set a custom font for all TextViews -->
+        <item name="android:fontFamily">@font/bubblegum</item>
+        <!-- Optional: You can set the font for other widgets (e.g., Buttons) here as well -->
+        <item name="android:textViewStyle">@style/CustomTextView</item>
+
+
+    </style>
+    <style name="Theme.BottomNavigationView.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/black</item>
+    </style>
+
+    <!-- Define a custom TextView style -->
+    <style name="CustomTextView" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/bubblegum</item>
+    </style>
+    <style name="exampleToast">
+        <item name="stTextColor">#fff</item>
+        <item name="stColorBackground">#181818</item>
+        <item name="stFont">@font/frenchfries</item>
+        <item name="stIconStart">@drawable/one</item>
+        <item name="stStrokeWidth">2dp</item>
+        <item name="stStrokeColor">#C5CAE9</item>
+    </style>
+</resources>

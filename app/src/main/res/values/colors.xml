@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#C5CAE9</color>
+    <color name="pink">#E91E63</color>
+    <color name="bottomnavigationbarcolor">#81A263</color>
+    <color name="topBarColor">#365E32</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="backgroundColor">#62760C</color>
+    <color name="backgroundColor2">#B362760C</color>
+    <color name="eggshell">#FFF9E3</color>
+    <color name="parchment">#FBF5DF</color>
+    <color name="transparent2">#E6FFFFFF</color>
+    <color name="red">#E6FD0000</color>
+    <color name="blue">#E433C3EF</color>
+    <color name="orange">#F09319</color>
+    <color name="orange1">#FFA24C</color>
+    <color name="orange2">#FFD09B</color>
+    <color name="gray2">#959595</color>
+
+</resources>

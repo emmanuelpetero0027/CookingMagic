@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cooking Magic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sampleNames">
+        <item>Number 1</item>
+        <item>Number 2</item>
+        <item>Number 3</item>
+        <item>Number 4</item>
+        <item>Number 5</item>
+        <item>Number 6</item>
+        <item>Number 7</item>
+        <item>Number 8</item>
+        <item>Number 9</item>
+        <item>Number 10</item>
+    </string-array>
+</resources>
